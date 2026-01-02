@@ -15,7 +15,9 @@ On the back side, there is a spherical mount for attaching a suction mount.
 
 The M3×40 mm threaded rod in the middle is used for stability and prevents the sphere from breaking off. The M3 nut inside the sphere needs to be placed during printing. Simply add a stop at a height of 38.6 mm.
 
-The holder was designed using Fusion 360. The gear is designed with the Fusion app GF Gear Generator. Everything is printed on a Prusa MK3S+.
+The holder was designed using Fusion 360. The gear is designed with the Fusion app GF Gear Generator.
+
+All 3D-printed parts were printed on a Prusa MK3S+ with a layer height of 0.2 mm. Only the five gear parts were printed with a layer height of 0.1 mm.
 
 It can be easily adapted for other tablets such as iPads or Samsung tablets.
 
